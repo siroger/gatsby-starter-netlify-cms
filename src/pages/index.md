@@ -1,36 +1,15 @@
 ---
 templateKey: index-page
-title: Adventures in Machine Learning
+title: Adventures in Artificial Intelligence
 image: /img/home-jumbotron.jpg
-heading: Adventures in Machine Learning
-subheading: A Blog About A.I., Coding and Maths
+heading: My Adventures in A.I.
+subheading: A blog about Machine Learning, Coding and Maths
 mainpitch:
   title: A collection of thoughts and ideas
   description: >
-    This blog is a deposit of things I find interesting, expiriments in A.I. Programming, and useful tips that I discover along the way.
+    This blog is a deposit of things I find interesting, experiments in A.I. Programming, and useful tips that I discover along the way.
 description: >-
   The website is built using GatsbyJS and hosted on Netlify.  The theme uses Bulma CSS Framework.
-intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
