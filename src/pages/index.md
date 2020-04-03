@@ -3,7 +3,7 @@ templateKey: index-page
 title: Adventures in Artificial Intelligence
 image: /img/home-jumbotron.jpg
 heading: My Adventures in A.I.
-subheading: A blog about Machine Learning, Coding and Maths
+subheading: A blog about Machine Learning, Coding and Maths, by Simon Rogers
 mainpitch:
   title: A collection of thoughts and ideas
   description: >
